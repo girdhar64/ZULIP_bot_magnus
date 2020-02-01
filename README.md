@@ -1,12 +1,17 @@
-# ZULIP_bot_magnus
+# header H1 ZULIP_Bot_magnus
 
-Implemeted Following features 
+Implemeted following features :
 
 1.IMDB Movie Review
 
-ex magnus movie inception 
+Eg magnus movie inception 
 
 2.Hackernews 
 
-ex magnus hackernews or magnushn
+Eg magnus hackernews or magnus hn
+
+3.Translation
+
+Eg magnus
+
 
