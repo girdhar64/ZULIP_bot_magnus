@@ -10,7 +10,7 @@ Interactive chatbot built for Zulip chat-platform (https://zulipchat.com/)
 
 ## Technologies
 Project is created with:
-* Zulip Restapi
+* Zulip's REST API
 
 ## Features
 Implemeted Following features  :
